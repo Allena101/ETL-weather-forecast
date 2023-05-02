@@ -1,0 +1,9 @@
+[2023-05-02 01:13:30,632] log - INFO - Starting main.py script - 10
+[2023-05-02 01:13:34,579] data_plotting - INFO - Starting plot_weather_data func - 28
+[2023-05-02 01:13:34,594] data_plotting - INFO - plotting single features - 50
+[2023-05-02 01:13:38,677] data_plotting - INFO - Finished plotting single features - 126
+[2023-05-02 01:13:38,677] data_plotting - INFO - plotting feature comparisons - 131
+[2023-05-02 01:13:40,013] data_plotting - INFO - Finished plotting feature comparisons - 157
+[2023-05-02 01:13:40,013] data_psql - INFO - Starting write_to_psql func - 14
+[2023-05-02 01:13:40,534] data_psql - INFO - Finished write_to_psql func - 67
+[2023-05-02 01:13:40,534] log - INFO - Finished running main.py script - 20

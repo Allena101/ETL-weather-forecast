@@ -1,0 +1,16 @@
+[2023-05-02 01:13:30,632] data_ingestion - INFO - Starting API call -> get_weather_forecast function - 40
+[2023-05-02 01:13:30,708] data_ingestion - INFO - start weather data validation - 51
+[2023-05-02 01:13:31,311] data_ingestion - INFO - data was successfully validated - 78
+[2023-05-02 01:13:31,387] data_ingestion - INFO - start weather data validation - 51
+[2023-05-02 01:13:31,942] data_ingestion - INFO - data was successfully validated - 78
+[2023-05-02 01:13:32,012] data_ingestion - INFO - start weather data validation - 51
+[2023-05-02 01:13:32,568] data_ingestion - INFO - data was successfully validated - 78
+[2023-05-02 01:13:32,637] data_ingestion - INFO - start weather data validation - 51
+[2023-05-02 01:13:33,198] data_ingestion - INFO - data was successfully validated - 78
+[2023-05-02 01:13:33,268] data_ingestion - INFO - start weather data validation - 51
+[2023-05-02 01:13:33,827] data_ingestion - INFO - data was successfully validated - 78
+[2023-05-02 01:13:33,906] data_ingestion - INFO - start weather data validation - 51
+[2023-05-02 01:13:34,466] data_ingestion - INFO - data was successfully validated - 78
+[2023-05-02 01:13:34,489] data_ingestion - INFO - json file has been dumped - 86
+[2023-05-02 01:13:34,491] data_transformation - INFO - Starting extract_features func - 17
+[2023-05-02 01:13:34,579] data_transformation - INFO - Finished extract_features func. dataFrames saved - 61

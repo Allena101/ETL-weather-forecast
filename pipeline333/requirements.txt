@@ -1,0 +1,10 @@
+APScheduler
+apache-airflow
+apscheduler
+matplotlib
+pandas
+pandera
+psycopg2-binary
+requests
+seaborn
+SQLAlchemy
